@@ -1,0 +1,12 @@
+*** Starting uWSGI 2.0.17.1 (64bit) on [Sat Nov 10 18:52:32 2018] ***
+compiled with version: 4.2.1 Compatible Apple LLVM 9.1.0 (clang-902.0.39.2) on 10 November 2018 10:41:43
+os: Darwin-18.2.0 Darwin Kernel Version 18.2.0: Fri Oct  5 19:41:49 PDT 2018; root:xnu-4903.221.2~2/RELEASE_X86_64
+nodename: liyandeMacBook-Pro-touch-15.local
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 8
+current working directory: /Users/liyan/Desktop/helloworld
+detected binary path: /usr/local/bin/uwsgi
+chdir() to /helloworld/
+chdir(): No such file or directory [core/uwsgi.c line 2631]
